@@ -1,0 +1,65 @@
+
+
+
+
+----------------                                       
+@@   DAY 1   @@@
+----------------  
+
+
+----------------                                       
+@@   DAY 2   @@@
+----------------  
+
+
+----------------                                       
+@@   DAY 3   @@@
+----------------  
+
+
+----------------                                       
+@@   DAY 4   @@@
+----------------  
+
+
+----------------
+@@   DAY 5   @@@
+----------------
+
+- What is XSS vulnerability?
+- WHat Types of XSS vulnerabilities are there?
+
+----------------------------------------------
+WHAT IS AN XSS VULNERABILITY?
+
+--> Cross-Site Scripting (XSS) is an injection attack where malicious JavaScript gets injected into a web application
+with the intention of being executed by other users.
+
+If you can get JavaScript to run on a victim's computer, there are numerous things you can achieve: Stealing victim's cookies; Running a Keylogger; 
+Redirecting the user to a different wesite; performing some action on the website: place an order or resetting passwords.
+
+
+---------------------------------------------
+WHAT TYPES OF XSS VULNERABILITIES ARE THERE?
+- DOM
+- REFLECTED
+- STORED
+- BLIND
+
+--> DOM (Document Object Model): 
+
+
+
+
+
+----------------                                       
+@@   DAY 6   @@@
+----------------  
+
+
+
+
+
+
+
+
